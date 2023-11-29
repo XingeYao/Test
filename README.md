@@ -1,2 +1,2 @@
 # Test
-This is for learning Git
+This is for learning GitHub
